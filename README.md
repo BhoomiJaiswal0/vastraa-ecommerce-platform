@@ -24,7 +24,7 @@ A Modern, Responsive & High-Performance Fashion Shopping Experience built using 
 
 **🔗 Live Website**
 
-https://vastraa-ecommerce-platform.vercel.app
+https://vastraa-ecommerce-platform-btf3jar9s.vercel.app
 
 ---
 
